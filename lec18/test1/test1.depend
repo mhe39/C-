@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1726253981 source:d:\es diploma\test-code blocks\lec18\test1\main.c
+	"QueueArray.h"
+
+1725805840 d:\es diploma\test-code blocks\lec18\test1\queue-ds.h
+	"Platform_Types.h"
+
+1725807438 d:\es diploma\test-code blocks\lec18\test1\platform_types.h
+	<stdio.h>
+	<stdlib.h>
+
+1726254281 d:\es diploma\test-code blocks\lec18\test1\queuearray.h
+	"Platform_Types.h"
+
+1726254484 source:d:\es diploma\test-code blocks\lec18\test1\queuearray.c
+	"QueueArray.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1693439809 source:d:\es diploma\test-code blocks\test1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1693439773 source:d:\es diploma\test-code blocks\test1\test2.c
+
+1693438634 source:d:\es diploma\test-code blocks\test1\lec4.c
+	<stdio.h>
+	<stdlib.h>
+

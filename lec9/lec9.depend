@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697031462 source:d:\es diploma\test-code blocks\lec9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

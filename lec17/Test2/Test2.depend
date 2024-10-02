@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1725465698 source:d:\es diploma\test-code blocks\lec17\test2\main.c
+	"StackArrayDS.h"
+
+1725029329 d:\es diploma\test-code blocks\lec17\test2\stackarrayds.h
+	"Platform_Types.h"
+
+1724959853 d:\es diploma\test-code blocks\lec17\test2\platform_types.h
+	<stdio.h>
+	<stdlib.h>
+
+1725188598 source:d:\es diploma\test-code blocks\lec17\test2\stackarrayds.c
+	"StackArrayDS.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1724937485 source:d:\es diploma\test-code blocks\lec17\test1\main.c
+	"stack-ds.h"
+
+1724937495 source:d:\es diploma\test-code blocks\lec17\test1\stack-ds.c
+	"stack-ds.h"
+
+1724934613 d:\es diploma\test-code blocks\lec17\test1\stack-ds.h
+	"std_types.h"
+
+1724854713 d:\es diploma\test-code blocks\lec17\test1\std_types.h
+	<stdio.h>
+	<stdlib.h>
+
